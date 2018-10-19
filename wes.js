@@ -10,7 +10,7 @@ A7MD.on("guildMemberAdd", member => {
 سلام عليكم 
 مكان راقي ندعوك له :sparkles:
 ويعطيك دولارات بايبال مقابل نشر
-                               [ https://discord.gg/dbpMpph ] 
+                               [ https://discord.gg/Q87rKBE ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
